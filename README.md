@@ -1,2 +1,28 @@
-# scholarship-management-system-java
-A console-based Scholarship Management System developed using Java. The project demonstrates core Object-Oriented Programming concepts such as classes, objects, inheritance, polymorphism, and exception handling through real-world scholarship workflows like adding, viewing, and applying for scholarships.
+# Scholarship Management System
+
+A Java console-based application developed to manage scholarships and student applications using Object-Oriented Programming principles.
+
+## Features
+- Add scholarship details
+- View available scholarships
+- Apply for scholarship using Scholarship ID
+- Custom exception handling
+
+## OOP Concepts Used
+- Class and Object
+- Inheritance
+- Polymorphism
+- Exception Handling
+
+## Technologies Used
+- Java
+- Console-based application
+
+## How to Run
+1. Compile the program:
+   javac ScholarshipManagementSystem.java
+2. Run the program:
+   java ScholarshipManagementSystem
+
+## Purpose
+This project was developed for academic learning and placement preparation to demonstrate core Java and OOP concepts.
